@@ -1,0 +1,14 @@
+{
+    "name": "vendor/moceansms",
+    "description": "Send and receive SMS message, query account balance and pricing info",
+    "homepage": "https://github.com/agnes13/PHP-lib",
+    "authors": [
+        {
+            "name": "PHP-FIG",
+            "homepage": "http://www.php-fig.org/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
